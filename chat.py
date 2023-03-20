@@ -2,6 +2,9 @@ import random
 import json
 
 import torch
+# bot.py
+
+
 
 from model import NeuralNet
 from nltk_utils import bagOfWords, tokenize
